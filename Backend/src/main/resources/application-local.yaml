@@ -2,12 +2,12 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/home_services
     username: postgres
-    password: postgres
+    password: Aayush@218
     driver-class-name: org.postgresql.Driver
 
   jpa:
     hibernate:
-      ddl-auto: validate
+      ddl-auto: update
 
   flyway:
     enabled: true
