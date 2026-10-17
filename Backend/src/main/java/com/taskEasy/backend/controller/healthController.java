@@ -1,4 +1,4 @@
-package com.taskEasy.backend.Controller;
+package com.taskEasy.backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
